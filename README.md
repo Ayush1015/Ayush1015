@@ -1,13 +1,13 @@
 # Hi, I'm Ayush Ghatak
 
-I'm a Computer Science and Engineering student at Asansol Engineering College, graduating in June 2027. I build full-stack applications and work on AI-assisted data processing. I'm looking for entry-level software engineering opportunities.
+I'm a Computer Science and Engineering student at Asansol Engineering College, graduating in August 2027. I build full-stack applications and work on AI-assisted data processing. I'm looking for entry-level software engineering opportunities.
 
 ## Tech stack
 
-- *Languages:* Python, TypeScript, JavaScript, Java, C++
+- *Languages:* Python, JavaScript, TypeScript, C++
 - *Frontend:* React, Next.js, HTML, CSS
 - *Backend:* Node.js, Express, FastAPI, REST APIs
-- *Tools and data:* Git, Docker, Docker Compose, MySQL, scikit-learn
+- *Data and tools:* PostgreSQL, DynamoDB, Docker, AWS serverless, Git, GitHub Actions
 
 ## Featured projects
 
